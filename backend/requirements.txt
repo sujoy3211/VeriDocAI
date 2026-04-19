@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+opencv-python
+pillow
+easyocr
+python-multipart
+fpdf
